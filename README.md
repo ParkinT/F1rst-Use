@@ -13,10 +13,12 @@ This utility makes it simply to track and determine;
 
 ###  USAGE:
   With the single class file (first_use.rb) loaded, you can add a line like this in your main controller - viewDidLoad:
+  
     usage = FirstUse.new "Cool App 15"
     if (usage.first_run?)
       displayInstructions
     end
+
 
  Although the AppName parameter is optional in the 'new' method it is __HIGHLY RECOMMENDED__.  This creates a namespace for your application.
   
