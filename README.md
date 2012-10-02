@@ -2,12 +2,12 @@
 ---   The First Gem in your RubyMotion project
                             by Thom Parkin (c) 2012 Websembly, LLC
 
-In many iOS applications it is desirable to present the user with an introduction or instructional screen ONLY WHEN THE APP IS FIRST RUN.
+In many iOS applications it is desirable to present the user with an introduction or instructional screen ONLY WHEN THE APP IS RUN FOR THE FIRST TIME.
   
-This utility makes it simply to track and determine;
-   * if this is the very first time the application has run on this device
-   * Exactly how many times the application has run
-   * The date of the very first run of the application
+This utility makes it simple to track and determine;
+   * if this is the very first time the application has been run on this device
+   * Exactly how many times the application has run on this device
+   * The date of the very first time the application ran on this device
    * The date of the last (most recent) run of the application
 * * *
 
@@ -31,6 +31,6 @@ This utility makes it simply to track and determine;
 * * *
 
 This is my first utiltiy for the RubyMotion community.  It was originally intended to be a Gem.
-But, since the entire functionality is included in a single file, perhaps that would be over-engineering.
+But, since the entire functionality is included in a single class (file), perhaps that would be over-engineering.
 
 If you feel compelled to convert this into a Gem, I would gladly accept your pull request.
