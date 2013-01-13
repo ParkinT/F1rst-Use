@@ -1,6 +1,6 @@
 #  F I R S T   U S E
 ---   The First Gem in your RubyMotion project
-                            by Thom Parkin (c) 2012 Websembly, LLC
+                            by Thom Parkin (c) 2012-2013 Websembly, LLC
 
 In many iOS applications it is desirable to present the user with an introduction or instructional screen ONLY WHEN THE APP IS RUN FOR THE FIRST TIME.
   
