@@ -34,3 +34,7 @@ This is my first utiltiy for the RubyMotion community.  It was originally intend
 But, since the entire functionality is included in a single class (file), perhaps that would be over-engineering.
 
 If you feel compelled to convert this into a Gem, I would gladly accept your pull request.
+
+===
+
+&copy; 2013-2016 Websembly, LLC
